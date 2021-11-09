@@ -11,8 +11,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
--Edward Cullen a open source project. 
-- Source - Myre ninak njan athu tharilla 
+
+
 
 <b>DEVS:</b>
 - <a href=https://t.me/edward_jo_david>Edward Jo David</a>"""
@@ -36,7 +36,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. Edward Cullen supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
